@@ -61,10 +61,10 @@
 						<div class="col-sm-12 text-left menu-1">
 							<ul>
 								<li class="active"><a href="#">Home</a></li>
-								<li><a href="<?php echo base_url()."index.php/crud/lihatAll"; ?>">All Products</a></li>
-								<li><a href="<?php echo base_url()."index.php/crud/lihatMen"; ?>">Men</a></li>
-								<li><a href="<?php echo base_url()."index.php/crud/lihatWomen"; ?>">Women</a></li>
-								<li><a href="<?php echo base_url()."index.php/crud/lihatAbout"; ?>">About</a></li>
+								<li><a href="<?php echo base_url()."index.php/crud/lihatAll"; ?>">Semua Produk</a></li>
+								<li><a href="<?php echo base_url()."index.php/crud/lihatMen"; ?>">Laki-laki</a></li>
+								<li><a href="<?php echo base_url()."index.php/crud/lihatWomen"; ?>">Wanita</a></li>
+								<li><a href="<?php echo base_url()."index.php/crud/lihatAbout"; ?>">Tentang</a></li>
 								<li class="cart has-dropdown"><a href="<?php echo base_url()."index.php/crud/lihatCart"; ?>"><i class="icon-shopping-cart"></i> Cart</a>
 								</li>
 							</ul>
